@@ -14,7 +14,8 @@ The following tools were used to carry out the verification:
 - **Alt-Ergo** version **2.4.1**
 - **Why3** version **1.3.3**
   
-Operating Sistem
+Operating System
+
 -**Windows11**
   
 -**wsl ubuntu**
