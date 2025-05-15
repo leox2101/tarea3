@@ -42,6 +42,10 @@ opam depext --install -y frama-c
 
 # On WSL2, run the GUI as: GDK_BACKEND=x11 frama-c-gui 
 
+## Follow
+
+We use the commands: nano nameofthefile.c to create the code file. then we use frama-c-gui -wprte nameofthefile.c to run it.
+
 
 ## References 
 
