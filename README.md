@@ -44,7 +44,7 @@ opam depext --install -y frama-c
 
 ## Follow
 
-We use the commands: nano nameofthefile.c to create the code file. then we use frama-c-gui -wprte nameofthefile.c to run it.
+We use the commands: nano nameofthefile.c to create the code file. then we use frama-c-gui -wp-rte nameofthefile.c to run it.
 
 
 ## References 
